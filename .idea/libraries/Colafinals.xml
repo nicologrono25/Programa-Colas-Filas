@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Colafinals">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Colafinals/Colafinals.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
